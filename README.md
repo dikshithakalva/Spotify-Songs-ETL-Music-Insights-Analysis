@@ -60,10 +60,3 @@ The dashboard will open locally at:
 ```text
 http://localhost:8501
 ```
-
-
-
-
----
-
-⭐ If you found this project interesting, feel free to fork the repository and give it a star!
