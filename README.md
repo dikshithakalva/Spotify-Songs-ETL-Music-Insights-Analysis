@@ -11,8 +11,6 @@ This project demonstrates an end-to-end **ETL (Extract, Transform, Load) pipelin
 
 The project extracts Spotify music data, cleans and transforms the data, loads it into a SQLite database, performs SQL-based analytics, and visualizes key music trends through an interactive dashboard.
 
----
-
 ## Features
 
 ### Extract
