@@ -39,8 +39,6 @@ The project extracts Spotify music data, cleans and transforms the data, loads i
 - Mood Analysis
 - Energy & Popularity Relationships
 
----
-
 ## Running the Dashboard
 
 Install dependencies:
