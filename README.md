@@ -1,4 +1,4 @@
 # Spotify-Songs-ETL-Music-Insights-Analysis
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e01feb73-e613-462a-a4ef-46e8009e7686" />
+<img width="1920" height="930" alt="Screenshot (337)" src="https://github.com/user-attachments/assets/edd0d17e-496e-4e51-aa6a-f8d255af84e4" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3a28560-03e5-4f2e-bd9c-cbbc04aa4a46" />
+<img width="1920" height="924" alt="Screenshot (338)" src="https://github.com/user-attachments/assets/38b8c005-791e-4d4a-b359-312aee6f8472" />
